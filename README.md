@@ -12,7 +12,7 @@
 
 > 📝 **Summary:**
 
-> This is a 2D survial game. The game is based on a character moivng through obstacles to survive attack.
+> This is a 2D practice game. The game is based on a character moivng through a landscape.
 The game is developed in unity platform with coding languages like C#.
 
 <br>
