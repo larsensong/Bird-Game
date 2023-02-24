@@ -1,4 +1,4 @@
->Game ### Flappy Bird
+# Game: Bird Game 🐦:
 
 <br>
 
