@@ -17,7 +17,7 @@ The game is developed in unity platform with coding languages like C#.
 
 <br>
 ## :blue_book: Authors
-* **Larsen Song** - [@larsensong](https://github.com/Larsensong)
+* **Larsen Song** 
 
 ## :mag: License
 
