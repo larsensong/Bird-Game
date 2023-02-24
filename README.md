@@ -1,21 +1,11 @@
 # Game: Bird Game 🐦:
 
-<br>
 
-<div>
-  <a href="https://github.com/larsensong/alx-low_level_programming">
-    
-  </a>
-</div>
+## :Running: **Elements:**
 
-<br>
-
->  **Elements:**
-
-> This is a 2D practice game. The game is based on a character moivng through a landscape.
+ This is a 2D practice game. The game is based on a character moivng through a landscape.
 The game is developed in unity platform with coding languages like C#.
 
-<br>
 ## :blue_book: Authors
 * **Larsen Song** 
 
