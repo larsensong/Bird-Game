@@ -4,7 +4,7 @@
 ## **Elements:**
 
  This is a 2D practice game. The game is based on a character moivng through a landscape.
-The game is developed in unity platform with coding languages like C#.The  game
+The game is developed in unity platform with coding languages like C#.The  game is still
 
 ## :blue_book: Authors
 * **Larsen Song** 
