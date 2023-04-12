@@ -3,7 +3,7 @@
 
 ## **Elements:**
 
- This is a 2D practice game. The game is based on a character moivng through a landscape.
+ This is a 2D practice game. The game is based on a character moivng through a landscape. Its a survial 
 The game is developed in unity platform with coding languages like C#.The  game is still under development. New features will be added directly to the master branch.
 
 ## :blue_book: Authors
