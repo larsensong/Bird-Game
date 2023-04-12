@@ -19,4 +19,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## :mega: Acknowledgments
 
 * Nairobi Game Jam(providing guidance)
-* Iam Not Nato (for providing
+* Iam Not Nato (for providing guidance)
