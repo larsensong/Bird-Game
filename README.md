@@ -6,7 +6,7 @@
 This is a 2D practice game. The game is based on a character moving through a landscape. Its a survial  mode based game.
 The game is developed in unity platform with coding languages like C#.The  game is still under development. 
 New features will be added directly to the master branch.Any contribution is highly appreciated and allowed.
-The features will be added simultaneously.The  game is sheduled to be unravel stage 
+The features will be added simultaneously.The  game is sheduled to be unravel stage by stage
 
 
 
