@@ -11,7 +11,7 @@ The features will be added simultaneously.The  game is sheduled to be unravel st
 
 
 
-## :Blue_book: Authors
+## :Blue_Book: Authors
 * ** Larsen Song ** 
 
 ## :mag: License
