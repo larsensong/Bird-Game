@@ -3,7 +3,7 @@
 --- !u!29 &1
 OcclusionCullingSettings:
   m_ObjectHideFlags: 0
-  serializedVersion: 1
+  serializedVersion: 2
   m_OcclusionBakeSettings:
     smallestOccluder: 5
     smallestHole: 0.25
